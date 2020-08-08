@@ -3,6 +3,7 @@
 ## Master (Unreleased)
 
 * Add `RSpec/RepeatedIncludeExample` cop. ([@biinari][])
+* Add `RSpec/StubbedMock` cop. ([@bquorning][], [@pirj][])
 
 ## 1.43.1 (2020-08-17)
 
